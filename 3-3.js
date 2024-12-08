@@ -4,16 +4,13 @@ let emptyString = "";
 let num = 6;
 let bool = true;
 
-
-
 console.log(Number(str));
 console.log(Number(strNumber));
 console.log(Number(emptyString));
 console.log(Number(num));
 console.log(Number(bool));
 
-
-console.log('-----------------');
+console.log("-----------------");
 
 console.log(String(str));
 console.log(String(strNumber));
@@ -21,7 +18,7 @@ console.log(String(emptyString));
 console.log(String(num));
 console.log(String(bool));
 
-console.log('-----------------');
+console.log("-----------------");
 
 console.log(Boolean(str));
 console.log(Boolean(strNumber));
